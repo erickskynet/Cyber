@@ -1,7 +1,7 @@
 {
-  "name": "linealphatjs",
+  "name": "linecyberbots",
   "version": "0.1.0",
-  "description": "LineAlphat JS",
+  "description": "Cyber Bots",
   "main": "./library/main.js",
   "scripts": {
     "start": "npm run build && npm run bot",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alfathdirk/LineAlphatJS.git"
+    "url": "https://github.com/erickskynet/Cyber.git"
   },
   "author": {
-    "name": "skybots",
+    "name": "Cyberbots",
     "email": "erick.skynet21@gmail.com"
   },
   "license": "MIT",
